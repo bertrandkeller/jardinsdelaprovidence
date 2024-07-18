@@ -1,0 +1,2024 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  inkscape:version="1.0beta1 (fe3e306, 2019-09-17)"
+  sodipodi:docname="providence.svg"
+  version="1.1"
+  id="svg897"
+  xml:space="preserve"
+  width="297mm"
+  height="420mm"
+  viewBox="0 0 1122.5197 1587.4016"
+>
+  <sodipodi:namedview
+    inkscape:current-layer="layer2"
+    inkscape:window-maximized="1"
+    inkscape:window-y="25"
+    inkscape:window-x="0"
+    inkscape:cy="1116.6074"
+    inkscape:cx="476.45515"
+    inkscape:zoom="2.7163889"
+    units="mm"
+    showgrid="false"
+    id="namedview851"
+    inkscape:window-height="747"
+    inkscape:window-width="1280"
+    inkscape:pageshadow="2"
+    inkscape:pageopacity="0"
+    guidetolerance="10"
+    gridtolerance="10"
+    objecttolerance="10"
+    borderopacity="1"
+    inkscape:document-rotation="0"
+    bordercolor="#666666"
+    pagecolor="#ffffff"
+  />
+
+  <metadata id="metadata903">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+
+  <defs id="defs901">
+    <rect
+      id="rect1297"
+      height="13.275879"
+      width="28.634246"
+      y="146.81559"
+      x="408.94909"
+    />
+
+    <rect
+      id="rect4529"
+      height="26.013919"
+      width="98.85289"
+      y="219.55748"
+      x="233.08471"
+    />
+
+    <pattern
+      inkscape:collect="always"
+      patternUnits="userSpaceOnUse"
+      width="10"
+      height="10"
+      patternTransform="translate(0,0) scale(10,10)"
+      id="Polkadots-med"
+      inkscape:stockid="Polka dots, medium"
+    >
+      <circle
+        style="fill: black; stroke: none"
+        cx="2.567"
+        cy="0.810"
+        r="0.15"
+        id="circle2411"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="3.048"
+        cy="2.33"
+        r="0.15"
+        id="circle2413"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="4.418"
+        cy="2.415"
+        r="0.15"
+        id="circle2415"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="1.844"
+        cy="3.029"
+        r="0.15"
+        id="circle2417"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="6.08"
+        cy="1.363"
+        r="0.15"
+        id="circle2419"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="5.819"
+        cy="4.413"
+        r="0.15"
+        id="circle2421"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="4.305"
+        cy="4.048"
+        r="0.15"
+        id="circle2423"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="5.541"
+        cy="3.045"
+        r="0.15"
+        id="circle2425"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="4.785"
+        cy="5.527"
+        r="0.15"
+        id="circle2427"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="2.667"
+        cy="5.184"
+        r="0.15"
+        id="circle2429"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="7.965"
+        cy="1.448"
+        r="0.15"
+        id="circle2431"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="7.047"
+        cy="5.049"
+        r="0.15"
+        id="circle2433"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="4.340"
+        cy="0.895"
+        r="0.15"
+        id="circle2435"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="7.125"
+        cy="0.340"
+        r="0.15"
+        id="circle2437"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="9.553"
+        cy="1.049"
+        r="0.15"
+        id="circle2439"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="7.006"
+        cy="2.689"
+        r="0.15"
+        id="circle2441"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="8.909"
+        cy="2.689"
+        r="0.15"
+        id="circle2443"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="9.315"
+        cy="4.407"
+        r="0.15"
+        id="circle2445"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="7.820"
+        cy="3.870"
+        r="0.15"
+        id="circle2447"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="8.270"
+        cy="5.948"
+        r="0.15"
+        id="circle2449"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="7.973"
+        cy="7.428"
+        r="0.15"
+        id="circle2451"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="9.342"
+        cy="8.072"
+        r="0.15"
+        id="circle2453"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="8.206"
+        cy="9.315"
+        r="0.15"
+        id="circle2455"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="9.682"
+        cy="9.475"
+        r="0.15"
+        id="circle2457"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="9.688"
+        cy="6.186"
+        r="0.15"
+        id="circle2459"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="3.379"
+        cy="6.296"
+        r="0.15"
+        id="circle2461"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="2.871"
+        cy="8.204"
+        r="0.15"
+        id="circle2463"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="4.59"
+        cy="8.719"
+        r="0.15"
+        id="circle2465"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="3.181"
+        cy="9.671"
+        r="0.15"
+        id="circle2467"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="5.734"
+        cy="7.315"
+        r="0.15"
+        id="circle2469"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="6.707"
+        cy="6.513"
+        r="0.15"
+        id="circle2471"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="5.730"
+        cy="9.670"
+        r="0.15"
+        id="circle2473"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="6.535"
+        cy="8.373"
+        r="0.15"
+        id="circle2475"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="4.37"
+        cy="7.154"
+        r="0.15"
+        id="circle2477"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="0.622"
+        cy="7.25"
+        r="0.15"
+        id="circle2479"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="0.831"
+        cy="5.679"
+        r="0.15"
+        id="circle2481"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="1.257"
+        cy="8.519"
+        r="0.15"
+        id="circle2483"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="1.989"
+        cy="6.877"
+        r="0.15"
+        id="circle2485"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="0.374"
+        cy="3.181"
+        r="0.15"
+        id="circle2487"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="1.166"
+        cy="1.664"
+        r="0.15"
+        id="circle2489"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="1.151"
+        cy="0.093"
+        r="0.15"
+        id="circle2491"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="1.151"
+        cy="10.093"
+        r="0.15"
+        id="circle2493"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="1.302"
+        cy="4.451"
+        r="0.15"
+        id="circle2495"
+      />
+
+      <circle
+        style="fill: black; stroke: none"
+        cx="3.047"
+        cy="3.763"
+        r="0.15"
+        id="circle2497"
+      />
+    </pattern>
+
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath915">
+      <path
+        inkscape:connector-curvature="0"
+        d="M 0,0 H 341 V 458 H 0 Z"
+        id="path913"
+      />
+    </clipPath>
+
+    <clipPath id="clipPath915-0" clipPathUnits="userSpaceOnUse">
+      <path
+        inkscape:connector-curvature="0"
+        id="path913-2"
+        d="M 0,0 H 341 V 458 H 0 Z"
+      />
+    </clipPath>
+  </defs>
+
+  <g
+    style="display: inline"
+    inkscape:label="Layer 2"
+    id="layer2"
+    inkscape:groupmode="layer"
+  >
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle8"
+      d="m 503.52713,433.3717 -75.58373,-22.45959 11.82716,-41.745 77.27332,23.65432 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle3"
+      d="m 393.54337,247.3617 -16.73582,53.16564 77.29894,22.38713 13.72796,-43.71826 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle5"
+      d="m 376.80755,300.52734 77.29894,22.38713 -14.33593,46.25264 -76.69097,-23.86552 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+      sodipodi:nodetypes="ccccc"
+    />
+
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle4"
+      d="m 541.80804,310.87197 -11.2474,36.33042 -76.45415,-24.28792 13.72796,-43.71826 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle6"
+      d="m 530.56064,347.20239 -76.45415,-24.28792 -14.33593,46.25264 77.27332,23.65432 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle7"
+      d="m 363.07959,345.30159 76.69097,23.86552 -11.82716,41.745 -77.77591,-24.42536 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle9"
+      d="m 350.16749,386.48675 -12.87432,46.34755 76.51025,22.4381 14.13998,-44.36029 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle10"
+      d="m 427.9434,410.91211 75.58373,22.45959 -11.74211,45.07448 -77.9816,-23.17378 14.13998,-44.36029"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle11"
+      d="m 337.29317,432.8343 -12.87432,43.40485 76.87809,23.90945 12.50648,-44.8762 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle12"
+      d="m 413.80342,455.2724 77.9816,23.17378 -7.35676,7.72459 -13.97783,34.57674 -69.15349,-20.59891 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle13"
+      d="m 324.41885,476.23915 -13.24215,45.24404 76.1424,23.90945 13.97784,-45.24404 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle14"
+      d="m 401.29694,500.1486 69.15349,20.59891 -4.04622,8.46027 -5.51756,37.88729 -73.56755,-21.70243 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle16"
+      d="m 460.88665,567.09507 -5.14973,35.31242 -8.46027,9.19594 -73.1997,-22.4381 13.24215,-43.77269 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle15"
+      d="m 387.3191,545.39264 -76.1424,-23.90945 -13.24216,43.77269 76.14241,23.90945 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle17"
+      d="m 297.93454,565.25588 -13.24216,43.40485 76.87808,24.27729 12.50649,-43.77269 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle18"
+      d="m 374.07695,589.16533 73.1997,22.4381 -29.42701,47.08323 -58.4862,-18.39189 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle20"
+      d="m 417.84964,658.68666 -8.19967,10.95171 -14.9593,48.42089 -53.93221,-17.32129 18.60498,-60.4432 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle19"
+      d="m 361.57046,632.93802 -13.33235,42.60534 -77.15849,-23.22628 13.61276,-43.65635 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle21"
+      d="m 271.07962,652.31708 77.15849,23.22628 -12.99097,43.30323 -77.55216,-23.61994 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle22"
+      d="m 257.69498,695.22665 77.55216,23.61994 -12.59731,44.09057 -77.55215,-23.61995 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle24"
+      d="m 245.09768,739.31721 77.55215,23.61995 -13.7783,44.48426 -77.94582,-24.01363 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle23"
+      d="m 340.75846,700.73797 53.93221,17.32129 -16.1403,50.38924 v 11.41628 l -55.90054,-16.92762 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle25"
+      d="m 322.64983,762.93716 55.90054,16.92762 -1.181,49.60187 -68.49784,-22.04523 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle26"
+      d="m 230.92571,783.40779 -11.80997,43.69686 76.37116,22.43897 13.38463,-42.1222 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle27"
+      d="m 308.87153,807.42142 68.49784,22.04523 0.39367,47.23993 -82.27614,-27.16296 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle29"
+      d="m 302.17921,851.90562 -11.02264,42.90959 86.60647,27.55658 v -45.66521 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle31"
+      d="m 291.15657,894.81521 -12.5973,41.33486 90.14946,28.34397 9.05431,-42.12225 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle33"
+      d="m 278.55927,936.15007 -12.59731,40.54759 89.36213,27.95034 13.38464,-40.15396 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle35"
+      d="m 265.96196,976.69766 -11.80997,40.94124 81.09515,25.5883 20.07695,-38.5792 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle28"
+      d="m 219.11574,827.10465 83.06347,24.80097 -11.02264,42.90959 -84.24447,-27.16297 12.20364,-40.54759"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle30"
+      d="m 206.9121,867.65224 -12.59731,42.90959 84.24448,25.58824 12.5973,-41.33486 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle32"
+      d="m 194.31479,910.56183 -11.80997,40.94126 83.45714,25.19457 12.59731,-40.54759 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle34"
+      d="m 182.50482,951.50309 83.45714,25.19457 -11.80997,40.94124 -84.24447,-26.7693 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle36"
+      d="m 169.90752,990.8696 -11.80997,43.6969 83.45714,24.0137 12.5973,-40.9413 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle38"
+      d="m 158.09755,1034.5665 -12.59731,40.154 84.3892,24.5556 11.66525,-40.6959 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle37"
+      d="m 254.15199,1017.6389 81.09515,25.5883 -16.1403,38.5792 -77.55215,-23.2262 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle39"
+      d="m 319.10684,1081.8064 -77.55215,-23.2262 -11.66525,40.6959 73.86443,22.6842 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle79"
+      d="m 263.64192,1328.6994 93.51175,-21.8194 -17.14382,-62.3412 -35.84618,16.6243 -21.29989,21.2999 -15.5853,31.1706 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle80"
+      d="m 357.15367,1306.88 52.98999,-14.5463 -20.26088,-72.2118 -49.87293,24.4169 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle81"
+      d="m 410.14366,1292.3337 45.71686,-13.5072 -22.33892,-80.524 -43.63882,21.8194 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle82"
+      d="m 455.86052,1278.8265 41.04127,-11.4293 -22.85843,-82.0825 -40.52176,12.9878 22.33892,80.524"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle83"
+      d="m 474.04336,1185.3147 42.5998,-11.4292 22.85843,84.1606 -42.5998,9.3511 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle84"
+      d="m 539.50159,1258.0461 41.56078,-13.5073 -22.85843,-80.524 -41.56078,9.8707 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle85"
+      d="m 581.06237,1244.5388 42.08027,-11.9487 -21.8194,-80.524 -43.1193,11.9487 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle86"
+      d="m 623.14264,1232.5901 42.59984,-12.4682 -21.81946,-77.407 -42.59978,9.3512 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle87"
+      d="m 665.74248,1220.1219 43.63879,-10.9098 -22.3389,-78.9654 -43.11935,12.4682 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="path952"
+      d="m 729.77499,1076.161 7.79262,4.6755 -0.65235,7.8494 -6.75361,5.1951 -19.22185,30.1316 -23.89743,6.2341 11.42917,39.4827 69.81146,-34.8807 10.19308,56.1806 142.86519,-43.6388 -31.31704,-141.8554 74.0433,-225.62084 -74.67991,-33.96315 3.20378,-11.28302 -102.75769,-69.372 -9.5682,16.57334 -5.42599,32.76946 67.01672,37.4047 41.30155,13.67888 -10.48217,36.8283 -26.14381,82.48734 49.51073,18.73528 -31.29154,89.08887 -44.19465,-21.06607 7.27311,88.83621 z"
+      style="
+        fill: url(#Polkadots-med);
+        fill-opacity: 1;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+      sodipodi:nodetypes="cccccccccccccccccccccccccc"
+    />
+
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle95"
+      d="m 785.86264,1067.4814 -8.94509,-103.47783 43.6388,7.79262 7.27311,88.83621 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle94"
+      d="m 785.86264,1067.4814 -56.74,8.7363 -3.63656,-72.7314 54.38614,-4.11599 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="ccccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle97"
+      d="m 779.87222,999.37031 -54.38614,4.11599 -1.55852,-47.79492 8.31212,-40.52174 54.54853,17.14382 -9.87066,31.69011 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle98"
+      d="m 776.91755,964.00357 43.6388,7.79262 25.97546,-86.75808 -38.44371,-20.26093 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle102"
+      d="m 808.0881,864.77718 -55.58754,-18.70235 17.66333,-52.47043 2.07803,-11.94875 55.06803,18.70235 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle100"
+      d="m 808.0881,864.77718 -55.58754,-18.70235 -16.10481,48.31442 5.71465,6.2341 -1.03902,8.31219 -7.79268,-1.55853 -1.03902,7.79263 54.54853,17.14382 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle105"
+      d="m 827.30995,800.358 -55.06803,-18.70235 4.67563,-19.22186 -2.07803,-47.7949 67.01672,37.4047 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle113"
+      d="m 976.92881,734.89977 13.50721,-43.11931 -74.28989,-32.72911 -12.4682,42.59979 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle115"
+      d="m 990.43602,691.78046 13.50728,-40.52176 -74.80941,-33.24862 -12.98776,41.04127 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle117"
+      d="m 1003.9433,651.2587 13.5073,-42.08029 -75.84846,-32.72911 -12.46825,41.56078 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle119"
+      d="m 1017.4506,609.17841 14.0267,-41.04127 -77.40697,-33.24862 -12.46819,41.56078 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle121"
+      d="m 1031.4773,568.13714 12.9877,-40.52176 -77.92641,-34.28764 -12.46826,41.56078 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle120"
+      d="m 966.53859,493.32774 -92.40806,-36.94987 -2.14271,32.79379 82.08251,45.71686 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle118"
+      d="m 954.07033,534.88852 -12.46819,41.56078 -75.84847,-48.83392 3.11711,-4.67559 3.11704,-33.76813 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle116"
+      d="m 941.60214,576.4493 -12.46825,41.56078 -75.84841,-53.50951 12.46819,-36.88519 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle114"
+      d="m 929.13389,618.01008 -12.98776,41.04127 -78.96546,-65.45823 16.10481,-29.09255 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle112"
+      d="m 916.14613,659.05135 -12.4682,42.59979 -78.96552,-72.73136 7.27318,-10.9097 -7.79268,-5.71461 12.98776,-18.70235 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle61"
+      d="m 748.864,794.64341 -9.35114,-14.54628 -52.99,4.15606 8.83163,76.36792 27.53405,9.35121 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle60"
+      d="m 722.88854,869.97232 -15.06579,43.63879 -15.0658,12.46825 -24.93644,-1.55852 -13.50727,2.59754 -4.67557,-62.3412 45.71682,-4.15607 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle59"
+      d="m 695.35449,860.62111 -8.83163,-76.36792 -49.35345,3.11705 7.27312,77.92644 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle57"
+      d="m 637.16941,787.37024 -50.39244,4.15606 7.79265,79.48503 49.87291,-5.71465 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle55"
+      d="m 586.77697,791.5263 -47.27538,3.11711 8.31215,81.563 46.75588,-5.19508 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle53"
+      d="m 539.50159,794.64341 -45.19735,4.67557 8.31216,82.08251 45.19734,-5.19508 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle51"
+      d="m 494.30424,799.31898 -44.15833,4.15607 8.31216,83.64109 44.15833,-5.71465 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle48"
+      d="m 450.14591,803.47505 -40.52176,5.71459 -10.39019,10.39022 1.03902,59.7436 57.14607,-6.2341 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle49"
+      d="m 457.41905,873.08936 5.7146,59.74361 -68.57528,6.23415 4.15608,-17.66333 1.55853,-42.08033 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="cccc"
+      inkscape:connector-curvature="0"
+      id="parcelle50"
+      d="m 394.55837,939.06712 -9.87069,55.58758 82.08254,-18.18288 -3.63657,-43.63885"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle52"
+      d="m 466.77022,976.47182 44.67784,-10.90973 -8.83166,-84.1606 -44.15833,5.71465 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle54"
+      d="m 511.44806,965.56209 43.63882,-11.94874 -7.27314,-77.40694 -45.19734,5.19508 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle56"
+      d="m 555.08688,953.61335 46.23636,-12.46819 -6.75362,-70.13383 -46.75588,5.19508 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle58"
+      d="m 601.32324,941.14516 52.99,-14.02678 -4.67557,-62.3412 -55.06805,6.23415 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle78"
+      d="m 676.13264,1108.4273 22.85841,-5.7147 9.3512,-8.8316 -5.71458,-82.0826 -47.27541,10.9098 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle77"
+      d="m 655.35226,1022.7082 -16.10481,-73.25091 36.36568,-6.75361 26.49503,16.62432 0.51951,52.4704 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle75"
+      d="m 639.24745,949.45729 -41.56077,9.3512 19.22186,82.08251 40.52175,-9.3512 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle73"
+      d="m 597.68668,958.80849 -40.00225,9.87065 18.70235,82.08256 40.52176,-9.8707 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle71"
+      d="m 557.68443,968.67914 -41.04127,9.87071 18.70235,82.08255 41.04127,-9.8707 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="ccccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle72"
+      d="m 576.38678,1050.7617 18.18284,78.9655 -67.27785,18.1232 -13.50725,-60.2631 26.75609,-6.1745 -5.1951,-20.7804 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle68"
+      d="m 516.64316,978.54985 -69.0948,17.14385 11.42922,47.7948 68.57528,-16.6243 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle65"
+      d="m 447.54836,995.6937 -71.17283,17.6633 -2.59755,7.2731 23.37794,37.9242 61.82166,-15.0658 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle66"
+      d="m 397.15592,1058.5543 28.05353,48.834 54.10741,-11.4784 -13.06615,-53.9799 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="ccccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle67"
+      d="m 425.20945,1107.3883 23.89744,46.2363 10.91583,9.6727 11.29154,0.597 28.18508,-8.7112 -12.46824,-60.7826 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle70"
+      d="m 487.0311,1094.4005 26.75342,-6.8132 13.50725,60.2631 -27.79243,7.3327 z"
+      style="
+        fill: url(#Polkadots-med);
+        stroke: #000000;
+        stroke-width: 0.59135800000000005px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+        fill-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle74"
+      d="m 576.38678,1050.7617 40.52176,-9.8707 17.66333,79.485 -40.00225,9.3512 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle76"
+      d="m 616.90854,1040.891 40.52175,-9.3512 18.70235,76.8875 -41.56077,11.9487 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle64"
+      d="m 392.76433,1096.624 34.64784,69.2957 -5.07042,9.2957 -43.09853,20.2817 -21.12673,-38.8732 17.74646,-54.0844 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle62"
+      d="m 392.76433,1096.624 -16.05631,-37.183 -12.67604,-11.831 -16.90138,20.2816 -25.35208,77.7464 36.33797,10.9859 17.74646,-54.0844 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="parcelle63"
+      d="m 358.11649,1156.6239 21.12673,38.8732 -55.77456,31.2676 -20.28166,5.0704 -5.07042,-10.9859 23.66194,-75.2112 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="path1169"
+      d="m 474.84838,621.04634 -40.50727,52.57328 -31.88871,107.73213 10.34228,12.06601 332.67676,-29.30315 9.48042,-12.92787 -0.86185,-52.57327 -35.33613,-20.68457 z"
+      style="
+        fill: url(#Polkadots-med);
+        fill-opacity: 1;
+        stroke: #000000;
+        stroke-width: 0.59135800000000005px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="ccccccc"
+      inkscape:connector-curvature="0"
+      id="path3144"
+      d="m 556.58331,307.89636 -7.61523,21.84234 1.72372,10.34229 25.8557,8.61856 10.34229,-5.17113 9.70772,-18.71221 z"
+      style="
+        fill: url(#Polkadots-med);
+        fill-opacity: 1;
+        stroke: #000000;
+        stroke-width: 0.59135800000000005px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="path3146"
+      d="m 545.52065,353.8707 -5.17114,3.44742 -29.30313,99.11355 26.71756,-25.85571 31.02685,-58.60627 -2.58557,-7.75671 -2.58557,-6.89486 z"
+      style="
+        fill: url(#Polkadots-med);
+        fill-opacity: 1;
+        stroke: #000000;
+        stroke-width: 0.59135800000000005px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="path3148"
+      d="m 118.39854,1160.2859 -64.788612,219.718 185.915192,-45.0704 38.02812,-145.0702 -4.22535,-11.2676 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="path3150"
+      d="m 145.50024,1074.7205 158.25363,47.2398 -26.20063,67.903 -4.22535,-11.2676 -154.92935,-18.3098 z"
+      style="
+        fill: url(#Polkadots-med);
+        fill-opacity: 1;
+        stroke: #000000;
+        stroke-width: 0.59135800000000005px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="cccccc"
+      inkscape:connector-curvature="0"
+      id="path3256"
+      d="M 376.32805,226.04257 24.903448,1409.908 941.30702,1162.57 905.39404,1004.7428 1059.5639,519.37142 Z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.591358px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="parcelle69"
+      d="m 466.25071,1041.93 61.30215,-15.0658 12.98775,54.5486 -61.22375,14.4971 -13.06615,-53.9799"
+      style="
+        fill: url(#Polkadots-med);
+        stroke: #000000;
+        stroke-width: 0.2;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-miterlimit: 4;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        fill-opacity: 1;
+      "
+    />
+
+    <path
+      inkscape:connector-curvature="0"
+      id="path4535"
+      d="M 401.13463,247.49028 H 504.91926"
+      style="
+        fill: none;
+        stroke: none;
+        stroke-width: 1.27349px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+
+    <path
+      sodipodi:nodetypes="cccccc"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.5;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+        stroke-miterlimit: 4;
+        stroke-dasharray: none;
+      "
+      d="m 824.71241,628.91978 -8.73555,-3.71859 -26.14315,40.0949 102.75769,69.372 11.08653,-33.01695 z"
+      id="path2264"
+      inkscape:connector-curvature="0"
+    />
+
+    <path
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.6;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+        stroke-miterlimit: 4;
+        stroke-dasharray: none;
+      "
+      d="m 903.67793,701.65114 73.25088,33.24863 -12.86128,45.01449 -74.67991,-33.96315 z"
+      id="path2266"
+      inkscape:connector-curvature="0"
+    />
+
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="path3024"
+      d="m 820.55635,971.79619 44.19465,21.06607 15.33466,-43.51522 -46.97375,-19.54949 -12.55556,41.99864"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.5;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-miterlimit: 4;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+      "
+    />
+    <path
+      sodipodi:nodetypes="ccccc"
+      inkscape:connector-curvature="0"
+      id="path3026"
+      d="m 880.08566,949.34704 15.95688,-45.57365 -49.51073,-18.73528 -13.4199,44.75944 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.5;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-miterlimit: 4;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+      "
+    />
+    <path
+      inkscape:connector-curvature="0"
+      id="path4123"
+      d="m 489.90591,541.44755 -9.37121,49.97977 9.37121,10.93308 132.75877,38.52607 132.75878,29.67549 33.84047,-46.33541 -4.16498,-13.53619 L 575.80864,551.86 500.83898,537.28257 Z"
+      style="
+        fill: url(#Polkadots-med);
+        stroke: #000000;
+        stroke-width: 0.4;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+        fill-opacity: 1;
+        stroke-miterlimit: 4;
+        stroke-dasharray: none;
+      "
+    />
+    <path
+      inkscape:connector-curvature="0"
+      id="path4411"
+      d="m 698.47154,1169.7294 69.81146,-34.8807 10.19308,56.1806 -69.09481,18.1828 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 1px;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+      "
+    />
+    <path
+      inkscape:connector-curvature="0"
+      id="path4413"
+      d="m 841.85624,752.04359 41.30155,13.67888 -10.48217,36.8283 -41.24587,-14.02166 z"
+      style="
+        fill: none;
+        stroke: #000000;
+        stroke-width: 0.5;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-opacity: 1;
+        stroke-miterlimit: 4;
+        stroke-dasharray: none;
+      "
+    />
+  </g>
+</svg>

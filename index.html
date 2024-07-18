@@ -1,0 +1,114 @@
+---
+title: Plan des jardins de la Providence
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        text-align: center;
+      }
+      .rotate .svg {
+        transform-origin: top left;
+        transform: rotate(-18deg) translateX(-260px);
+      }
+      .rotate .pastille {
+        transform: rotate(18deg);
+      }
+      h1 {
+        top: 0;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+      }
+      section {
+        margin: auto;
+      }
+      .svg {
+        position: relative;
+        text-align: left;
+        margin: -00px auto;
+        width: max-content;
+      }
+      .pastille {
+        display: grid;
+        place-items: center;
+        font-family: arial;
+        font-size: 8px;
+        width: 15px;
+        height: 15px;
+        position: absolute;
+        background: #111;
+        color: #fff;
+        border-radius: 50%;
+      }
+      .nom {
+        display: grid;
+        place-items: center;
+        padding: 2px 4px;
+        font-family: arial;
+        font-size: 10px;
+        position: absolute;
+        background: #111;
+        color: #fff;
+        transform: translate(-5px, 20px);
+     }
+      #map {
+        width: 50%;
+        height: auto;
+        fill: #ccc;
+        stroke: #333;
+        stroke-width: 2;
+        position: relative;
+      }
+
+      [id^="parcel"] {
+        position: relative !important;
+        fill: yellow ;
+      }
+
+      {% for member in site.data.parcelles %}
+      .position{{ member.id }} {
+        left: {{ member.position[0] }}px;
+        top: {{ member.position[1] }}px;
+      }
+      {% endfor %}
+    </style>
+  </head>
+  <body>
+  <h1>{{ page.title }}</h1>
+  <section>
+  <div class="svg">
+  {% for parcelle in site.data.parcelles %}
+      <div class="pastille position{{ parcelle.id }}">
+        {{ parcelle.id }}
+      </div>
+  {% endfor %}
+
+  {% for jardinier in site.data.jardinierss %}
+      {% assign modules = jardinier.module | split:"-" %}
+      {% for num in modules %}
+        {% assign nom = jardinier.nom | split:" " %}
+        {% assign size = nom | size %}
+        {% if size > 0 %}
+        <div class="nom position{{ num }}">
+        {% if size > 1 %}
+          {{ nom[1] }}
+        {% else %}
+          {{ nom[0] }}
+        {% endif %}
+        </div>
+        {% endif %}
+      {% endfor %}
+  {% endfor %}
+  {% for image in site.static_files %}
+      <img src="{{ image.path }}" alt="">
+  {% endfor %}
+  </div>
+</section>
+  </body>
+</html>
