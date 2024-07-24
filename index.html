@@ -11,6 +11,8 @@ title: Plan des jardins de la Providence
     <style>
       body {
         text-align: center;
+        font-family: Calibri, Arial, Sans-serif;
+        background: #fefefe;
       }
       .rotate .svg {
         transform-origin: top left;
@@ -23,7 +25,9 @@ title: Plan des jardins de la Providence
         top: 0;
         position: absolute;
         text-align: center;
+        padding: 1rem;
         width: 100%;
+        font-size: 2.8rem;
       }
       section {
         margin: auto;
@@ -31,7 +35,8 @@ title: Plan des jardins de la Providence
       .svg {
         position: relative;
         text-align: left;
-        margin: -00px auto;
+        margin: -00px auto 0;
+        padding: 0;
         width: max-content;
       }
       .pastille {
@@ -56,7 +61,7 @@ title: Plan des jardins de la Providence
         background: #111;
         color: #fff;
         transform: translate(-5px, 20px);
-     }
+      }
       #map {
         width: 50%;
         height: auto;
@@ -77,6 +82,15 @@ title: Plan des jardins de la Providence
         top: {{ member.position[1] }}px;
       }
       {% endfor %}
+      {% assign friches = site.data.jardiniers | where: "friche", "oui" %}
+      {% for jardinier in friches %}
+        {% assign modules = jardinier.module | split:"-" %}
+        {% for num in modules %}
+          #parcelle{{ num }} {
+            fill: lightgrey !important;
+          }
+        {% endfor %}
+      {% endfor %}
     </style>
   </head>
   <body>
@@ -88,8 +102,7 @@ title: Plan des jardins de la Providence
         {{ parcelle.id }}
       </div>
   {% endfor %}
-
-  {% for jardinier in site.data.jardinierss %}
+  {% for jardinier in site.data.jardiniers %}
       {% assign modules = jardinier.module | split:"-" %}
       {% for num in modules %}
         {% assign nom = jardinier.nom | split:" " %}
@@ -105,9 +118,7 @@ title: Plan des jardins de la Providence
         {% endif %}
       {% endfor %}
   {% endfor %}
-  {% for image in site.static_files %}
-      <img src="{{ image.path | replace: "/","" }}" alt="">
-  {% endfor %}
+  {% include providence.html %}
   </div>
 </section>
   </body>
